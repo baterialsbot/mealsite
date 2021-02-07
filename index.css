@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.fas{
+  padding: 1px;
+  
+}
+#exceptional{
+  padding: 15px;
+}
+.extra{
+  margin-left: 34rem;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.modal-food{
+  background-color: rgb(61, 168, 172);
+}
+
+.food-name{
+  text-align: center;
+}
+/
+@media screen and (max-width: 767px) {
+  .inner-form .input-field.second-wrap {
+      min-width: 100px;
+  }
+}
+#searchBtn {
+  padding: 15px;
+  background-color: rgb(35, 201, 90);
+  font-size: 16px;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  
+}
+
+
+
+
+
+
